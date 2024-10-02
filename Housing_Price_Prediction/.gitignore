@@ -1,0 +1,17 @@
+# Virtual environment
+bin/
+include/
+lib/
+lib64/
+share/
+pyvenv.cfg
+
+# Python cache
+*.pyc
+__pycache__/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Dataset (if you don't want to include it in version control)
+# usa-real-estate-dataset.zip
